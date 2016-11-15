@@ -8,4 +8,4 @@ applications:
   disk_quota: 1024M
   services:
   - AlchemyAPI-dh
-  - remkohdev-liberty-watson-cloudantNoSQLDB
+  - emes-liberty-watson-cloudantNoSQLDB
