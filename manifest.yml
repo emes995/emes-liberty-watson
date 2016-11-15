@@ -7,5 +7,5 @@ applications:
   host: emes-liberty-watson
   disk_quota: 1024M
   services:
-  - AlchemyAPI-jp
+  - AlchemyAPI-dh
   - remkohdev-liberty-watson-cloudantNoSQLDB
